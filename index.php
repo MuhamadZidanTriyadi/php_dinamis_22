@@ -32,7 +32,8 @@
                     </div>
                 </nav>
                 <!-- ini adalah penutup navbar -->
-                <div class="container">
+                <!-- content1 -->
+                <div class="container" id="perkenalan">
   <div class="row">
     <div class="col-4">
     <div class="card mx-auto" style="width: 18rem;">
@@ -49,7 +50,26 @@
     
   </div>
 </div>  
-
+<!-- penutup content1 --> 
+ <!-- content2 -->
+ <div class="container" id="alamat">
+  <div class="row">
+    <div class="col-8">
+    <div class="card mx-auto" style="width: 18rem;">
+  <img src="assets/img/zidan.png" class="card-img-top" alt="...">
+  <div class="card-body">
+    <p class="card-text">Zidan</p>
+  </div>
+</div>
+    </div>
+    <div class="col-4">
+      <h1>Selamat datang di website saya</h1>
+      <P> Perkenalkan saya Muhamad Zidan Triyadi biasa dipanggil Zidan dan saya berada di kelas 11 RPL dan hobi saya bermain game dan berolahraga. Olahraga yang biasa lakukan seperti main Futsal dan Badminton.
+    </div>
+    
+  </div>
+</div>  
+<!-- penutup content2 -->
 
             </div>
             <!-- akhir pembungkus -->
